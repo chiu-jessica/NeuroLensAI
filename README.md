@@ -75,7 +75,7 @@ version only.
 ## Results
 
 | Version | Test Accuracy |
-|---|---|---|
+|---|---|
 | Baseline (center slice, per-slice normalization) | 0.67 |
 | Tumor-guided slice selection + volume-level normalization | **0.88** |
 
