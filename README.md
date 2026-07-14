@@ -74,10 +74,10 @@ version only.
 
 ## Results
 
-| Version | Test Accuracy | Notes |
+| Version | Test Accuracy |
 |---|---|---|
-| Baseline (center slice, per-slice normalization) | 0.67 | |
-| Tumor-guided slice selection + volume-level normalization | **0.88** | |
+| Baseline (center slice, per-slice normalization) | 0.67 |
+| Tumor-guided slice selection + volume-level normalization | **0.88** |
 
 Full classification report and confusion matrices are in the notebook
 (evaluation cells under the "Final, Successful Model Building Attempt"
